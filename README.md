@@ -22,7 +22,6 @@ Maven dependencies are added in pom.xml
 
 Functioning:
 
-The customer can only view the default page of the application.
 Upon login the admin can 
 1.Add a customer 
 2.Then add an appliance to customer 
