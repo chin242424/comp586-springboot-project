@@ -14,7 +14,7 @@ The location of Controllers - comp586-springboot-project /bluemoon-rest-spring-m
 The location of Services -
 comp586-springboot-project /bluemoon-rest-spring-master-1 /src /mai /java /springframework /bluemoonrestspring /service/
 
-Data configuration location - comp586-springboot-project /bluemoon-rest-spring-master-1 /src /main /resources/
+Database configuration files - comp586-springboot-project /bluemoon-rest-spring-master-1 /src /main /resources/
 
 Any other classes other than this are additional and were added to solve errors arising due to application run
 
