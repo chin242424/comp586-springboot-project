@@ -34,3 +34,13 @@ Upon login the admin can
 	List static pages of Technicians, Appliance Types and Expertises 
 
 Appliance can only be added when a customer is added and drop can only be added when an appliance is added. Please check model classes for relationships between them
+
+Commands to be run on EC2: 
+
+sudo amazon-linux-extras install java-openjdk11
+java -version
+wget 'jar file link' -> generates jar file
+sudo yum install tmux
+tmux new -s mywindow
+java -jar 'jar file'
+tmux a -t mywindow
